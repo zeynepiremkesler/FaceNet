@@ -1,4 +1,5 @@
-#FaceNet Project
+FaceNet Project
+===========================
 
 This project includes a simple face recognition system capable of recognizing faces in images.
 
